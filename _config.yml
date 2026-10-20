@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: 양고양이 # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: 양고양이의 알고리즘 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
